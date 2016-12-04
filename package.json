@@ -1,8 +1,8 @@
 {
     "name": "event-added-listener",
-    "version": "1.0.2",
-    "description": "",
-    "main": "listen_to_event_listeners.js",
+    "version": "1.0.3",
+    "description": "Listener to any addEventListener on the DOM",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
